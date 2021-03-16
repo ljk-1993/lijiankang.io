@@ -2664,6 +2664,10 @@ input, select, textarea {
 
 	}
 
+	logo_img {
+		border-radius: 50%;
+	}
+
 /* Narrow */
 
 	@media screen and (min-width: 737px) and (max-width: 1200px) {
